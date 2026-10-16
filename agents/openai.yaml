@@ -1,0 +1,4 @@
+interface:
+  display_name: "libtv识图转化专业视频提示词v1"
+  short_description: "分析参考首帧，设计分阶段动作、连续运镜、自然对白和环境音的专业中文视频提示词"
+  default_prompt: "请使用 $image-to-video-prompts，根据我上传的首帧和时长要求，只输出专业级中文视频生成提示词。"
