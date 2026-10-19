@@ -3,7 +3,7 @@
 将参考首帧与简短创意转为专业中文视频生成提示词。支持 LibTV 等自然语言视频工作流，也可用于接受类似提示词的视频模型。技能只编写提示词，不自动生成媒体或消费生成额度。
 
 本技能已上架 Agensi AI Skills Marketplace，提供免费下载与安装。
-在 Agensi 查看 LibTV Image to Video Prompts
+在 Agensi 查看 LibTV Image to Video Prompts[在 Agensi 查看 LibTV Image to Video Prompts](https://www.agensi.io/skills/libtv-image-to-video-prompts)
 本项目也可以直接通过 GitHub 获取。遵循 MIT 开源许可证，为独立开发项目，并非 LibTV 官方产品。
 
 ## 能做什么
